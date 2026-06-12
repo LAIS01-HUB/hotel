@@ -145,7 +145,7 @@ Inserir nesta seção:
 
 ### 1. Clonar o repositório
 
-git clone https://github.com/lais01-hub/hotelreservas.git
+git clone https://github.com/LAIS01-HUB/hotel/tree/main
 
 ### 2. Instalar as dependências
 
